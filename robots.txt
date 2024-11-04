@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://akuqieki.github.io/DRM/sitemap_index.txt
+Sitemap: https://akuqieki.github.io/KQI/sitemap_index.txt
+Sitemap: https://akuqieki.github.io/iWw/sitemap_index.txt
+Sitemap: https://akuqieki.github.io/jwr/sitemap_index.txt
